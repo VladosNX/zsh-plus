@@ -1,4 +1,4 @@
 #>>>>>>>>>>>>>>>>>>>>#
 # ZSHRC for ZSH-PLUS #
 #<<<<<<<<<<<<<<<<<<<<#
-source .zshp-theme
+source ~/.zshp-theme
