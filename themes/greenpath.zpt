@@ -1,0 +1,1 @@
+PROMPT="%n %K{green} %F{black}%~%F{white} %K{black} > "
