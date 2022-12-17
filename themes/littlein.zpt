@@ -1,1 +1,2 @@
 PROMPT="%F{blue}%~%F{white} $ "
+PS2="%F{blue}... %F{white}"

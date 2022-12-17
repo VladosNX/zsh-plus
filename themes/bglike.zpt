@@ -1,1 +1,2 @@
 PROMPT="%K{red}%~ %K{black} "
+PS2="%K{red}... %K{black}"

@@ -1,1 +1,2 @@
 PROMPT="%F{yellow}%~%F{white}(＃￣ω￣) "
+PS2="%F{yellow}...%F{white} "

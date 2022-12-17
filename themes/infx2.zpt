@@ -1,2 +1,3 @@
 PROMPT="%K{green}%F{white}%n@%m %~%K{black}
 %F{green}$ %F{white}"
+PS2="%K{green}...%K{black} > "
