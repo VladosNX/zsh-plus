@@ -1,0 +1,2 @@
+PROMPT="%K{green}%F{white}%n@%m%K{black}
+%F{blue}%~ %F{white}$ "
